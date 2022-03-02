@@ -16,3 +16,5 @@ yum install jenkins -y
 systemctl start jenkins
 # enable the jenkins
 systemctl enable jenkins
+
+echo " my second changes in the jenkins" 
