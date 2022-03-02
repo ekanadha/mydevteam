@@ -7,3 +7,5 @@ sudo yum install httpd -y
 sudo systemctl start httpd
 # enable the apche
 sudo systemctl enable httpd
+
+echo "first changes in appache" > index.html
